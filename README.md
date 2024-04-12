@@ -1,3 +1,5 @@
+**pokemon-react-native**
+
 Using expo to simulate in both ios, Android and web
 Tested in both devices Iphone SE and Pixel 4A
 Make sure you have android sdk and ios simulators installed
